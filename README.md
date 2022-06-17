@@ -66,14 +66,13 @@ CZĘŚĆ DODATKOWA
 Wykonać punkt 4:
 - z wykorzystaniem GitHubActions – max 40%
 
-![11](https://user-images.githubusercontent.com/78439685/173596974-84982d49-3073-4006-84af-2fc7bb4cb882.png)
-
-![image](https://user-images.githubusercontent.com/78439685/173597680-93858405-40a5-4ccd-8523-2653fd7faf0b.png)
+![image](https://user-images.githubusercontent.com/107277872/174273818-6b4aa0a5-af87-4b05-953d-9efa86af43ac.png)
+![image](https://user-images.githubusercontent.com/107277872/174273646-d6e6b958-0954-4e3e-a286-8a3d403782dd.png)
 
 - z przesłaniem danych nie na DockerHub a na repozytorium GitHub wraz z krótkim opisem
 konfiguracji GitHub Container Registry – max. 20%
 
 Konfiguracja jest podobna jak przy Dockerhub, co widać poniżej:
-![12](https://user-images.githubusercontent.com/78439685/173597217-faf56e04-2ffa-4e24-8281-60d844b1f7ca.png)
-![image](https://user-images.githubusercontent.com/78439685/173598179-34428ab8-c87d-49a2-bf89-1834d8030d37.png)
+![image](https://user-images.githubusercontent.com/107277872/174273594-ba69709d-bd12-4a3d-b3f8-4328a4b53d6f.png)
+![image](https://user-images.githubusercontent.com/107277872/174273513-6a32ea85-a7bf-4091-873b-a639fb850219.png)
 
